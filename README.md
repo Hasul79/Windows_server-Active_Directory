@@ -50,21 +50,26 @@
 
 ![Screenshot 2024-03-17 190007](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/9a5bfea5-0ed4-4c38-b614-6e660c707009)
 
-5.  "Next"
-  <br/>
-  
-![Screenshot 2024-03-17 191045](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/16fc123c-34bc-472b-9100-6cce74e1b1d1)
 
-6. VDI(VirtualBox DiSk Image)
+5. VDI(VirtualBox DiSk Image) (7)
   <br/>
   
    ![Screenshot 2024-03-17 191749](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/f5ee2889-2797-4378-ac37-df5ba3aabde8)
 
-7. Выберите тип хранилища и нажмите "Next"
+6. Выберите тип хранилища и нажмите "Next". (8)
    <br/>
 
    ![Screenshot 2024-03-17 191916](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/71363251-7b17-46c4-9754-a07db341791f)
 
- 8. 
+7. Выберите расположение файла .vdi и размер хранилища и нажмите "Create". (9)
+   <br/>
+
+![Screenshot 2024-03-17 192319](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/891c7f03-8a8b-42a7-b282-c62410a494f9)
+
+8. Откройте Settings / Storage / select Empty  и поместите туда свой ISO-файл и нажмите "OK". (10, 11)
+   <br/>
+
+   ![Screenshot 2024-03-17 192519](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/eb15702a-03da-44f5-8bd8-70283effb842)
 
 
+   
