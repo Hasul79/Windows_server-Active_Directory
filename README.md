@@ -10,4 +10,15 @@
   
 ![Active-Directory](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/26339a44-cd69-4f62-892e-4dfbb370da0c)
 
-</div>div>
+</div>
+# Что такое Active Directory?
+<p>Active Directory (AD) - это служба каталоговых сервисов, разработанная корпорацией Microsoft, которая используется для хранения информации о ресурсах сети (таких как пользователи, компьютеры, принтеры и другие устройства) в сетевой среде, основанной на Windows. Она обеспечивает централизованное управление и аутентификацию для пользователей, а также предоставляет управление доступом и политиками безопасности в сети.</p>
+<br/>
+
+# Сначала нам нужно установить Virtual Box или VMware и ISO-файл службы Microsoft
+
+```
+Virtual Box - https://www.virtualbox.org/wiki/Downloads
+VMware - https://www.vmware.com/products/workstation-pro/workstation-proevaluation.html
+Microsoft service - https://www.microsoft.com/en-us/evalcenter/download-windowsserver-2019 
+```
