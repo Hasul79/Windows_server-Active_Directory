@@ -68,8 +68,15 @@
 
 8. Откройте Settings / Storage / select Empty  и поместите туда свой ISO-файл и нажмите "OK". (10, 11)
    <br/>
+![Screenshot 2024-03-17 192501](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/b7b9c1c2-4b99-4b07-a6b1-6bbd3a818f0a)
+
+<br/>
 
    ![Screenshot 2024-03-17 192519](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/eb15702a-03da-44f5-8bd8-70283effb842)
 
+<br/>
+
+
+![Screenshot 2024-03-17 192538](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/91cfbe66-7fb7-4b40-8948-bd67f23dc4d9)
 
    
