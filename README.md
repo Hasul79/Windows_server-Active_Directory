@@ -53,8 +53,7 @@
 5. Выберите тип файла hard disk, и нажмите "Next"
   <br/>
   
-   ![Screenshot 2024-03-17 190443](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/631f73fc-81d0-4f52-b3cb-8858317a19d0)
-
+![Screenshot 2024-03-17 191045](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/16fc123c-34bc-472b-9100-6cce74e1b1d1)
 
 
 
