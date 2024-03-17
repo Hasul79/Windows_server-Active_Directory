@@ -27,30 +27,9 @@
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
-
-<div style="display: inline-block; width: 45%;">
-    <p>1. Выберите **New**.</p>
-  
-    <img src="https://github.com/Hasul79/Windows_server-Active_Directory/blob/main/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22.jpg?raw=true" alt="Screenshot 2024-03-17 180210" 
-    
-    style="max-width: 100%;">
-</div>
-<div style="display: inline-block; width: 45%;">
-    <p>1. Выберите **New**.</p>
-  
-    <img src="https://github.com/Hasul79/Windows_server-Active_Directory/blob/main/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22.jpg?raw=true" alt="Screenshot 2024-03-17 180210" 
-    
-    style="max-width: 100%;">
-</div>
-
-
-
-
-<br/>
-
 1. Выберите **New**.
    <br/>
-    <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
+       <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
  <br/>
 
 
