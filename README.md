@@ -36,13 +36,14 @@
    
  <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
  
-
+<br/>
 2. Напишите имя, путь, тип и версию и нажмите кнопку "Next". (2, 3)
    <br/>
 
  ![Screenshot 2024-03-17 181340](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/60a31439-05cd-41ff-9cbe-4fc288052814)
 
 
+<br/>
 3. Выберите объем памяти (RAM) и нажмите кнопку "Next". (4, 5)
  <br/>
 
