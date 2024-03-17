@@ -21,3 +21,16 @@
 <p>VirtualBox - <a href="https://www.virtualbox.org/wiki/Downloads">Download VirtualBox</a></p>
 <p>VMware - <a href="https://www.vmware.com/products/workstation-pro/workstation-proevaluation.html">Download VMware Workstation Pro</a></p>
 <p>Microsoft service - <a href="https://www.microsoft.com/en-us/evalcenter/download/windowsserver2019">Download Windows Server 2019</a></p>
+
+<br/>
+
+#После установки Virtual box установите службу Microsoft и настройте ее.
+<br/>
+
+1. Select **New**.
+
+![Screenshot 2024-03-17 180210](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22)
+
+
+
+
