@@ -27,9 +27,22 @@
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
-1. Select **New**.
+1. Выберите **New**.
 
 ![Screenshot 2024-03-17 180210](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22)
+
+<br/>
+2. Напишите имя, путь, тип и версию и нажмите кнопку "Next".
+
+![Screenshot 2024-03-17 181340](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/60a31439-05cd-41ff-9cbe-4fc288052814)
+
+<br/>
+3. Выберите объем памяти (RAM) и нажмите кнопку "Next".
+
+![Screenshot 2024-03-17 181948](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/163ba4ee-4a7c-486c-87db-2bb8f700f9cf)
+
+
+
 
 
 
