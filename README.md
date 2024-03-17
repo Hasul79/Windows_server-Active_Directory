@@ -24,7 +24,7 @@
 
 <br/>
 
-#После установки Virtual box установите службу Microsoft и настройте ее.
+# После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
 1. Select **New**.
