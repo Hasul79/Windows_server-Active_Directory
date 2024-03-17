@@ -18,7 +18,7 @@
 # Сначала нам нужно установить Virtual Box или VMware и ISO-файл службы Microsoft
 
 ```
-Virtual Box - https://www.virtualbox.org/wiki/Downloads
+<p>Virtual Box - <a href="https://www.virtualbox.org/wiki/Downloads"></a></p>
 VMware - https://www.vmware.com/products/workstation-pro/workstation-proevaluation.html
 Microsoft service - https://www.microsoft.com/en-us/evalcenter/download-windowsserver-2019 
 ```
