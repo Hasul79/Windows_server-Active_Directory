@@ -29,6 +29,8 @@
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
+<div>
+
 1. Выберите **New**. (1)
    <br/>
        <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
@@ -83,3 +85,5 @@
 
 ![Screenshot 2024-03-17 193244](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/1fc24f17-f055-4c50-8e31-92f025f03c8b)
 
+<br/>
+</div>
