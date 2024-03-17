@@ -30,11 +30,11 @@
 
 
 
-<div style="width: 45%">
+<div style="width: 35%">
     <p>1. Выберите **New**.</p>
     <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
 </div>
-<div style="width: 45%">
+<div style="width: 35%">
     <p>1. Выберите **New**.</p>
     <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
 </div>
@@ -45,7 +45,7 @@
 
 
    
-<div style="width: 45%">
+<div >
     <img src="link_to_image2" alt="Image 2" >
     <p>Description for Image 2</p>
   
