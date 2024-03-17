@@ -45,16 +45,26 @@
 
 ![Screenshot 2024-03-17 181948](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/163ba4ee-4a7c-486c-87db-2bb8f700f9cf)
 
-4. Нажмите create (6)
+4. Выберите тип файла hard disk, и нажмите "Create" (6)
  <br/>
 
 ![Screenshot 2024-03-17 190007](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/9a5bfea5-0ed4-4c38-b614-6e660c707009)
 
-5. Выберите тип файла hard disk, и нажмите "Next"
+5.  "Next"
   <br/>
   
 ![Screenshot 2024-03-17 191045](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/16fc123c-34bc-472b-9100-6cce74e1b1d1)
 
+6. VDI(VirtualBox DiSk Image)
+  <br/>
+  
+   ![Screenshot 2024-03-17 191749](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/f5ee2889-2797-4378-ac37-df5ba3aabde8)
 
+7. Выберите тип хранилища и нажмите "Next"
+   <br/>
+
+   ![Screenshot 2024-03-17 191916](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/71363251-7b17-46c4-9754-a07db341791f)
+
+ 8. 
 
 
