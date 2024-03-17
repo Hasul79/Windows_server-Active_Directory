@@ -29,23 +29,21 @@
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
-<div>
+
 
 1. Выберите **New**. (1)
    <br/>
-       <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
- <br/>
-
-
-<br/>
+ <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
+ 
+  <br/>
 2. Напишите имя, путь, тип и версию и нажмите кнопку "Next". (2, 3)
 <br/>
 
 ![Screenshot 2024-03-17 181340](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/60a31439-05cd-41ff-9cbe-4fc288052814)
 
-<br/>
+ <br/>
 3. Выберите объем памяти (RAM) и нажмите кнопку "Next". (4, 5)
-<br/>
+ <br/>
 
 ![Screenshot 2024-03-17 181948](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/163ba4ee-4a7c-486c-87db-2bb8f700f9cf)
 
@@ -75,7 +73,7 @@
    
 ![Screenshot 2024-03-17 192501](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/b7b9c1c2-4b99-4b07-a6b1-6bbd3a818f0a)
 
-<br/>
+
 
 9. После этого запустите машину и настройте сервер Windows. <br/>
 10. После установки вы увидите. 
@@ -86,4 +84,4 @@
 ![Screenshot 2024-03-17 193244](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/1fc24f17-f055-4c50-8e31-92f025f03c8b)
 
 <br/>
-</div>
+
