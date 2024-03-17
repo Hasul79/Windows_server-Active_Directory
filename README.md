@@ -27,10 +27,25 @@
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
 
+
+
+
+<div style="width: 45%">
+    <p>1. Выберите **New**.</p>
+  
+![Screenshot 2024-03-17 180210](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22)
+
+   </div>
+   
+<div style="width: 45%">
+    <img src="link_to_image2" alt="Image 2" >
+    <p>Description for Image 2</p>
+  
+</div>
+
 1. Выберите **New**.
 2. <br/>
 
-![Screenshot 2024-03-17 180210](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22)
 
 <br/>
 2. Напишите имя, путь, тип и версию и нажмите кнопку "Next".
