@@ -1,4 +1,4 @@
-# Windows server, Active Directory, DNS, DNCP
+# Windows server, Active Directory, DNS, DHCP
 <br>
 
 <div align="center">
