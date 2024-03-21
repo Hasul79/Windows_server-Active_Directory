@@ -1,4 +1,4 @@
-# Windows_server-Active_Directory
+# DNS
 <br>
 
 <div align="center">
