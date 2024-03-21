@@ -7,6 +7,11 @@
 <br/>
 
 
+
+![1709385646510](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/e1b9f1b4-2bc6-455d-a2c6-04bbbc64aecf)
+
+
+
 # Сначала нам нужно установить Virtual Box или VMware и ISO-файл службы Microsoft
 
 
