@@ -1,10 +1,6 @@
-# Windows_server-Active_Directory
+# Active_Directory
 <br>
 
-<div align="center">
-  <h1>Этот проект посвящен Windows Server Active Directory, и мы будем настраивать его и поймем, как он работает.</h1>
-</div>
-<br/>
 
 <div align="center">
   
