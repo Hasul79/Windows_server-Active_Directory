@@ -1,6 +1,10 @@
 # DNS
 <br>
 
+![images](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/bb09bfc8-abc1-4894-8c31-55a40c91c70e)
+
+
+
 <div align="center">
   <h1>Этот проект посвящен Windows Server Active Directory, и мы будем настраивать его и поймем, как он работает.</h1>
 </div>
