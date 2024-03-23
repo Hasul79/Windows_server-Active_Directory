@@ -1,7 +1,7 @@
 # DNS
 <br>
 
-<div  width="500px">
+<div align="center">
   
 ![images](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/bb09bfc8-abc1-4894-8c31-55a40c91c70e)
 
