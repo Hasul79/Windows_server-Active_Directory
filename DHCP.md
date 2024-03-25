@@ -1,10 +1,10 @@
-# DHCP
+<h1 slign="center">DHCP</h1> 
 
-<div width="600px">
+<div align="center">
   
 ![main-qimg-bae398b662ce97ddf25d4fff911076ee](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/0d4cc1cb-2aad-407e-bcd4-dc86c783c53c)
 
 </div>
-
-<h1> Dynamic Host Configuration Protocol (DHCP) <br/> Протокол динамической конфигурации хоста  </h1>
-<p>- это протокол управления сетью, используемый для автоматического назначения IP-адресов и других параметров связи устройствам, подключенным к сети с использованием клиент-серверной архитектуры. Он устраняет необходимость вручной настройки сетевых устройств и состоит из двух сетевых компонентов: централизованного сервера DHCP и клиентских экземпляров протокольного стека на каждом компьютере или устройстве. DHCP автоматизирует и централизованно управляет этими конфигурациями, позволяя устройствам использовать сетевые службы, такие как DNS, NTP, и любой коммуникационный протокол на основе UDP или TCP. Когда устройство хочет получить доступ к сети с использованием DHCP, оно отправляет запрос на получение IP-адреса, который обрабатывается DHCP-сервером.</p>
+<h1> Dynamic Host Configuration Protocol (DHCP) </h1>
+<br/>
+<p>-  is a network management protocol used to automatically assign IP addresses and other communication parameters to devices connected to a network using a client-server architecture. It eliminates the need for manually configuring network devices and consists of two network components: a centrally installed network DHCP server and client instances of the protocol stack on each computer or device. DHCP automates and centrally manages these configurations, allowing devices to use network services such as DNS, NTP, and any communication protocol based on UDP or TCP. When a device wants access to a network using DHCP, it sends a request for an IP address that is picked up by a DHCP server.  </p>
