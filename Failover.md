@@ -16,10 +16,25 @@
 <ol>
 <li>From the tools menu, select DHCP.</li>
 <li>Right-click on IPv4 and select "Configure Failover".</li>
-</ol>
+
 
 ![Screenshot 2024-03-26 011638](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/9c524514-5c7d-4f89-bfc1-aad67983ae9f)
 
 
+<li>Follow the prompts in the failover configuration wizard to set up the failover relationship between the DHCP servers.</li>
 
+![Screenshot 2024-03-26 011650](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/9b399051-822a-4466-b57f-7f3df00024eb)
+
+
+<br/>
+
+![Screenshot 2024-03-26 011700](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/979167e8-92c3-499e-a169-2e63801e9df2)
+
+<br/>
+
+
+![Screenshot 2024-03-26 011713](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/ff5c3307-9d9a-409b-a480-3e023a0e7b30)
+
+<br/>
+</ol>
 <p>These steps will initiate the process of setting up failover for load balancing, ensuring redundancy and high availability for your network infrastructure.</p>
