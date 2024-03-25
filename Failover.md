@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="center">Failover (load balancing)</div>
+<h1 align="center">Failover (load balancing)</h1>
 
 <p>Load balancing is a technique used to distribute network traffic evenly across multiple servers to improve application responsiveness, increase availability, and reduce latency. It is a core networking solution that distributes network traffic across multiple servers in a server farm. A load balancer is a device that sits between the user and the server group and acts as an invisible facilitator, ensuring that all resource servers are used equally. By spreading the work evenly, load balancing improves application responsiveness and increases the availability of applications and websites for users. Load balancing can optimize the response time and avoid unevenly overloading some compute nodes while other compute nodes are left idle.</p>
 <br/>
