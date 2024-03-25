@@ -3,7 +3,9 @@
 
 <div align="center">
   
-![images](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/bb09bfc8-abc1-4894-8c31-55a40c91c70e)
+  ![5dd5104a3da92a877a5c8c5e_gif](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/33eb7127-4390-47b0-8ebf-30c7711d59eb)
+
+
 
  </div>
 
