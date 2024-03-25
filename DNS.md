@@ -7,20 +7,21 @@
 
  </div>
 
-<h3>DNS (Domain Name System) - это система, используемая для преобразования человеко-читаемых имен доменов в IP-адреса компьютеров и наоборот. DNS играет ключевую роль в Интернете, обеспечивая маршрутизацию запросов и обнаружение ресурсов.</h3>
+<h3>DNS (Domain Name System) is a system used to translate human-readable domain names into computer-readable IP addresses and vice versa. DNS plays a crucial role on the internet by facilitating the routing of requests and resource discovery.</h3>
 
 
-  <h1>Чтобы добавить службу DNS в Active Directory (AD) в Windows Server, выполните следующие шаги:.</h1>
+  <h1>To add the DNS service to Active Directory (AD) in Windows Server, follow these steps:</h1>
 
 <ol>
-  <li>Установите роль службы DNS:</li>
-  <ul>
-    <li>Откройте "Server Manager" на вашем сервере Windows.</li>
-    <li>Нажмите "Add roles and features".</li>
-    <li>Продолжайте, пока не дойдете до раздела "Server Roles".</li>
-    <li>Установите флажок напротив "DNS Server".</li>
-    <li>Продолжайте установку, следуя инструкциям мастера.</li>
-  </ul>
+    <li>Open the "Server Manager" application on the Windows Server.</li>
+    <li>In the Server Manager dashboard, click on "Add roles and features".</li>
+    <li>In the "Add Roles and Features Wizard", click "Next" until you reach the "Select server roles" page.</li>
+    <li>Select the "DNS Server" role from the list of available roles, and then click "Next".</li>
+    <li>Review the features required for the DNS Server role and click "Next".</li>
+    <li>On the "Confirm installation selections" page, review your selections and click "Install".</li>
+    <li>Once the installation is complete, click "Close" to exit the wizard.</li>
+    <li>After installing the DNS Server role, you can configure the DNS settings and zones using the "DNS Manager" tool, which can be found in the "Administrative Tools" menu.</li>
+
 </ol>
 
 
@@ -30,4 +31,4 @@
 
 </div>
 
-# Что такое Active Directory?
+
