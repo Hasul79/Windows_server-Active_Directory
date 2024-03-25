@@ -1,4 +1,4 @@
-<h1 slign="center">DHCP</h1> 
+<h1 align="center">DHCP</h1> 
 
 <div align="center">
   
