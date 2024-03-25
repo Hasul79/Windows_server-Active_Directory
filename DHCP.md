@@ -1,6 +1,6 @@
 # DHCP
 
-<div align="center">
+<div width="600">
   
 ![main-qimg-bae398b662ce97ddf25d4fff911076ee](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/0d4cc1cb-2aad-407e-bcd4-dc86c783c53c)
 
