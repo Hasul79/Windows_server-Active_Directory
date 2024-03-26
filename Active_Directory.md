@@ -8,11 +8,21 @@
 
 </div>
 
-# Что такое Active Directory?
+# What is Active Directory?
 
-<p>Active Directory (AD) - это служба каталоговых сервисов, разработанная корпорацией Microsoft, которая используется для хранения информации о ресурсах сети (таких как пользователи, компьютеры, принтеры и другие устройства) в сетевой среде, основанной на Windows. Она обеспечивает централизованное управление и аутентификацию для пользователей, а также предоставляет управление доступом и политиками безопасности в сети.</p>
+<p>Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It serves as a centralized and hierarchical database that stores information about network resources and enables administrators to manage and authenticate users, computers, and other devices within a network. Active Directory provides a variety of services, including:</p>
 <br/>
+<ol>
+<li>Authentication: Users can log in to the network using their credentials, which are verified by Active Directory.</li>
 
+<li>Authorization: Once authenticated, users can access resources on the network based on permissions and policies defined in Active Directory.</li>
+
+<li>Directory Services: Active Directory stores information about users, computers, groups, and other network objects in a structured format, making it easy to manage and organize resources.</li>
+
+<li>Policy Management: Administrators can define group policies to enforce security settings, software deployment, and other configurations across the network.</li>
+
+<li>Single Sign-On (SSO): Active Directory supports single sign-on, allowing users to access multiple network resources without having to log in separately to each one.</li>
+</ol>
 
 # После установки Virtual box установите службу Microsoft и настройте ее.
 <br/>
