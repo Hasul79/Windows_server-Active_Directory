@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <h1>Этот проект посвящен Windows Server Active Directory, и мы будем настраивать его и поймем, как он работает.</h1>
+  <h1>This project is dedicated to Windows Server / Active Directory, and we will be configuring it to understand how it works.</h1>
 </div>
 <br/>
 
@@ -12,7 +12,7 @@
 
 
 
-# Сначала нам нужно установить Virtual Box или VMware и ISO-файл службы Microsoft
+# First, we need to install VirtualBox or VMware and the Microsoft service ISO file.
 
 
 <p>VirtualBox - <a href="https://www.virtualbox.org/wiki/Downloads">Download VirtualBox</a></p>
