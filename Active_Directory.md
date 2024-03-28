@@ -36,21 +36,21 @@
  
 <br/>
 
-2. Напишите имя, путь, тип и версию и нажмите кнопку "Next". (2, 3)
+2.Write the name, path, type and version and click the "Next" button. (2, 3)
    <br/>
 
  ![Screenshot 2024-03-17 181340](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/60a31439-05cd-41ff-9cbe-4fc288052814)
 
 
 <br/>
-3. Выберите объем памяти (RAM) и нажмите кнопку "Next". (4, 5)
+3. Select the amount of memory (RAM) and click the "Next" button.(4, 5)
  <br/>
 
 ![Screenshot 2024-03-17 181948](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/163ba4ee-4a7c-486c-87db-2bb8f700f9cf)
 
 
 <br/>
-4. Выберите тип файла hard disk, и нажмите "Create" (6)
+4. Select the hard disk file type, and click "Create" (6)
  <br/>
 
 ![Screenshot 2024-03-17 190007](https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/9a5bfea5-0ed4-4c38-b614-6e660c707009)
