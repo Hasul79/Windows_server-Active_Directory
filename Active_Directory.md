@@ -24,12 +24,12 @@
 <li>Single Sign-On (SSO): Active Directory supports single sign-on, allowing users to access multiple network resources without having to log in separately to each one.</li>
 </ol>
 
-# После установки Virtual box установите службу Microsoft и настройте ее.
+# After installing Virtual box, install the Microsoft service and configure it.
 <br/>
 
 
 
-1. Выберите **New**. (1)
+1. Select "New". (1)
    <br/>
    
  <img src="https://github.com/Hasul79/Windows_server-Active_Directory/assets/95657084/d4be4d6b-74b9-4959-aac5-4de033373f22" alt="Screenshot 2024-03-17 180210">
